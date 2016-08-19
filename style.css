@@ -50,9 +50,9 @@ a:hover, a:active{
 
 .mainHeader img{
     width: 100%;
-    height: auto;
-    margin-top: 1%;
-    margin-bottom: 4px;
+    height: auto%;
+    margin-top: 2%;
+    margin-bottom: 2px;
 }
 
 .mainHeader nav{
